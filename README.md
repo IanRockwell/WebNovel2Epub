@@ -1,5 +1,5 @@
 # WebNovel2Epub
-Convert webnovels to epubs for easy offline reading!
+A CLI tool to convert webnovels to epubs for easy offline reading!
 
 ## Features
 - Convert web novels to EPUB format for offline reading
